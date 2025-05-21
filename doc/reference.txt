@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/51861852/pdf-file-not-downloading-with-html5-download-attribute
